@@ -1,2 +1,2 @@
 # leetcode
-learning algorithm
+Learn about data structures and algorithms
